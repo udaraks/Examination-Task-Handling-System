@@ -1,10 +1,14 @@
-This system runs on the intranet and it has mainly two sections, one section
+Examination Task Handling System runs on the intranet and it has mainly two sections, one section
 for administration to add relevant data to the system and to control the system whereas
-other section is for Student and Lecturers who will view the content of the system
+other section is for student and lecturers who will view the content of the system
 which are relevant and important to them. In this system users will be able to view
 examination timetables, results, student GPA values, student rankings. Moreover it has a separate
 discussion forum to discuss any subject matters, examination related problems and
 other important information.
+
+This web based system was designed using object oriented concepts and was
+developed using PHP, which is a powerful server-side scripting language, MySQL was
+used as the Database Management System and Apache was used as the web server.
 
 ======================
 Setting up the System:
