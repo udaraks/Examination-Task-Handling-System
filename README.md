@@ -9,7 +9,7 @@ If not install them first. Then follow the procedure given below.
 Creating the database
 ======================
 
-To load the contents of the "System\Database\university.sql" file into MySQL, use the following procedure:
+To load the contents of the "Database\university.sql" file into MySQL, use the following procedure:
 
 1. Goto Command Prompt
 2. Change directory to where the university.sql file is located
@@ -29,7 +29,7 @@ Now you have successfully created the database
 Copying System files
 ====================
 
-All the system files are inside “System\ETHS”. This folder should be copied to the document directory 
+All the system files are inside “ETHS”. This folder should be copied to the document directory 
 of the Apache server. i.e.‘htdocs’ folder in Apache installation path.
 
 
