@@ -67,7 +67,6 @@ Then login and use the system.
 
 --------------------
 © Udara K. Senanayake
-11/29/2009
 --------------------
 
 
