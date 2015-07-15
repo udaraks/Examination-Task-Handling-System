@@ -16,7 +16,7 @@ To load the contents of the "Database\university.sql" file into MySQL, use the f
 3. Then issue this command:
 	mysql -u username –p password
 (where username and password are your root username and password
-in MYSQL)
+in MySQL)
 4. Load the contents of university.sql using following command
 	mysql> SOURCE university.sql;
 5. You will see quite a bit of output as mysql reads queries from the
