@@ -6,8 +6,9 @@ examination timetables, results, student GPA values, student rankings. Moreover 
 discussion forum to discuss any subject matters, examination related problems and
 other important information.
 
-
+======================
 Setting up the System:
+======================
 
 First of all check whether Apache.MySQL and PHP are already installed. 
 If not install them first. Then follow the procedure given below.
