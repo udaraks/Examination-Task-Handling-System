@@ -1,9 +1,16 @@
-This file describes how to install and use the software.
+This system runs on the intranet and it has mainly two sections, one section
+for administration to add relevant data to the system and to control the system whereas
+other section is for Student and Lecturers who will view the content of the system
+which are relevant and important to them. In this system users will be able to view
+examination timetables, results, student GPA values, student rankings. Moreover it has a separate
+discussion forum to discuss any subject matters, examination related problems and
+other important information.
 
+
+Setting up the System:
 
 First of all check whether Apache.MySQL and PHP are already installed. 
 If not install them first. Then follow the procedure given below.
-
 
 ======================
 Creating the database
